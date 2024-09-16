@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey 👋
 
-<!--
-**Kanti/Kanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Working @ [anders und sehr GmbH](https://github.com/andersundsehr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanti&show_icons=true&custom_title=GitHub%20Stats&theme=transparent)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanti&layout=compact&show_icons=true&theme=transparent)
+
+![Visitors Counter](https://komarev.com/ghpvc/?username=Kanti&style=flat&label=Views)
+
+![](https://hit.yhype.me/github/profile?user_id=31854736)
